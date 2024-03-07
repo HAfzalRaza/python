@@ -519,4 +519,4 @@ class Point():
         return self.x
     def gety(self):
         return self.y
-point1 = Point(10, 100)
+point1 = Point(10, 100) # create an instance of a point with coordinates (10, 100)
