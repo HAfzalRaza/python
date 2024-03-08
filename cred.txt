@@ -6,4 +6,4 @@ int main() {
     int a = 10;
 }
 /*
-* @brief This is the main function of
+* @brief This is the main function of brief
